@@ -1,5 +1,5 @@
 {
-    "name": "icweb/trustyducvc",
+    "name": "ducvc/trusty",
     "description": "User interface for Laratrust",
     "type": "laravel",
     "authors": [
